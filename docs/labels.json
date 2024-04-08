@@ -1,0 +1,284 @@
+{
+  "labels": [
+    {
+      "id": 59,
+      "name": "page_id",
+      "description": "Page ID"
+    },
+    {
+      "id": 58,
+      "name": "page_number",
+      "description": "Page"
+    },
+    {
+      "id": 54,
+      "name": "perpendicularity",
+      "description": "Perpendicularity"
+    },
+    {
+      "id": 53,
+      "name": "circularity",
+      "description": "Circularity"
+    },
+    {
+      "id": 52,
+      "name": "flatness",
+      "description": "Flatness"
+    },
+    {
+      "id": 51,
+      "name": "straightness",
+      "description": "Straightness"
+    },
+    {
+      "id": 50,
+      "name": "length",
+      "description": "Length"
+    },
+    {
+      "id": 1,
+      "name": "store_name",
+      "description": "Store Name"
+    },
+    {
+      "id": 2,
+      "name": "store_address",
+      "description": "Store Address"
+    },
+    {
+      "id": 3,
+      "name": "company_name",
+      "description": "Company Name"
+    },
+    {
+      "id": 4,
+      "name": "company_no",
+      "description": "Company No"
+    },
+    {
+      "id": 5,
+      "name": "store_tax_id",
+      "description": "Store TAX ID"
+    },
+    {
+      "id": 6,
+      "name": "store_fax_number",
+      "description": "Store Fax Number"
+    },
+    {
+      "id": 7,
+      "name": "store_phone_number",
+      "description": "Store Phone Number"
+    },
+    {
+      "id": 8,
+      "name": "store_manager_name",
+      "description": "Store Manager Name"
+    },
+    {
+      "id": 9,
+      "name": "store_branch",
+      "description": "Store Branch"
+    },
+    {
+      "id": 10,
+      "name": "store_website",
+      "description": "Store Website"
+    },
+    {
+      "id": 11,
+      "name": "store_email",
+      "description": "Store Email"
+    },
+    {
+      "id": 12,
+      "name": "terminal_no",
+      "description": "Terminal Number"
+    },
+    {
+      "id": 13,
+      "name": "cashier_name",
+      "description": "Cashier Name"
+    },
+    {
+      "id": 14,
+      "name": "pax_no",
+      "description": "Pax Number"
+    },
+    {
+      "id": 15,
+      "name": "table_no",
+      "description": "Table Number"
+    },
+    {
+      "id": 16,
+      "name": "tax_percent",
+      "description": "Tax"
+    },
+    {
+      "id": 17,
+      "name": "invoice_no",
+      "description": "Invoice Number"
+    },
+    {
+      "id": 18,
+      "name": "invoice_date",
+      "description": "Invoice Date"
+    },
+    {
+      "id": 19,
+      "name": "invoice_time",
+      "description": "Invoice Time"
+    },
+    {
+      "id": 20,
+      "name": "seller",
+      "description": "Seller"
+    },
+    {
+      "id": 21,
+      "name": "seller_tax_id",
+      "description": "Seller Tax ID"
+    },
+    {
+      "id": 22,
+      "name": "seller_address",
+      "description": "Seller Address"
+    },
+    {
+      "id": 23,
+      "name": "client",
+      "description": "Client"
+    },
+    {
+      "id": 24,
+      "name": "client_tax_id",
+      "description": "Client Tax ID"
+    },
+    {
+      "id": 25,
+      "name": "client_address",
+      "description": "Client Address"
+    },
+    {
+      "id": 26,
+      "name": "iban",
+      "description": "IBAN"
+    },
+    {
+      "id": 27,
+      "name": "item_id",
+      "description": "Item ID"
+    },
+    {
+      "id": 28,
+      "name": "item_desc",
+      "description": "Item Description"
+    },
+    {
+      "id": 29,
+      "name": "item_unit",
+      "description": "Item Unit"
+    },
+    {
+      "id": 30,
+      "name": "item_qty",
+      "description": "Item Quantity"
+    },
+    {
+      "id": 31,
+      "name": "item_unit_price",
+      "description": "Item Unit Price"
+    },
+    {
+      "id": 32,
+      "name": "item_total",
+      "description": "Item Total"
+    },
+    {
+      "id": 33,
+      "name": "item_tax_amount",
+      "description": "Item Tax Amount"
+    },
+    {
+      "id": 34,
+      "name": "item_gross_worth",
+      "description": "Item Gross Worth (Item Total w/ Tax)"
+    },
+    {
+      "id": 35,
+      "name": "subtotal",
+      "description": "Subtotal"
+    },
+    {
+      "id": 36,
+      "name": "total_tax",
+      "description": "Total TAX"
+    },
+    {
+      "id": 37,
+      "name": "total",
+      "description": "Total"
+    },
+    {
+      "id": 49,
+      "name": "total_item_quantity",
+      "description": "Total Item Quantity"
+    },
+    {
+      "id": 48,
+      "name": "total_quantity",
+      "description": "Total Quantity"
+    },
+    {
+      "id": 47,
+      "name": "rounding_amount",
+      "description": "Rounding Amount"
+    },
+    {
+      "id": 46,
+      "name": "member_point",
+      "description": "Membership Points"
+    },
+    {
+      "id": 45,
+      "name": "discount_amount",
+      "description": "Discount Amount"
+    },
+    {
+      "id": 44,
+      "name": "discount_rate",
+      "description": "Discount Rate"
+    },
+    {
+      "id": 38,
+      "name": "change",
+      "description": "Change"
+    },
+    {
+      "id": 39,
+      "name": "paid_amount",
+      "description": "Paid Amount"
+    },
+    {
+      "id": 40,
+      "name": "paid_with",
+      "description": "Paid With"
+    },
+    {
+      "id": 41,
+      "name": "currency",
+      "description": "Currency"
+    },
+    {
+      "id": 42,
+      "name": "service_charges_percent",
+      "description": "Service Charges Percent"
+    },
+    {
+      "id": 43,
+      "name": "service_charges_total",
+      "description": "Service Charges Total"
+    }
+  ]
+}
