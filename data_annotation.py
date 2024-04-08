@@ -11,7 +11,6 @@ from tools import agstyler
 from tools.agstyler import PINLEFT
 import pandas as pd
 from toolbar_main import component_toolbar_main
-import fitz 
 import streamlit_javascript as st_js
 class DataAnnotation:
     class Model:
