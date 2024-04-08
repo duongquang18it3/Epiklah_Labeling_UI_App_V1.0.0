@@ -1,0 +1,18 @@
+-- Tạo bảng users
+
+CREATE TABLE users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    username TEXT NOT NULL,
+    password TEXT NOT NULL
+);
+
+-- Thêm dữ liệu cho bảng users
+
+INSERT INTO users (username, password)
+VALUES ('admin', '1234');
+
+INSERT INTO users (username, password)
+VALUES ('user1', '6789');
+
+INSERT INTO users (username, password)
+VALUES ('user2', '6789');
