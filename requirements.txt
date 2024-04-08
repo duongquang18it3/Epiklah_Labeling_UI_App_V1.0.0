@@ -7,3 +7,4 @@ natsort
 streamlit-aggrid==0.3.3
 pandas<2.0
 streamlit_authenticator==0.1.5
+PyMuPDF
